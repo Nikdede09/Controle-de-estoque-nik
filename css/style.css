@@ -3,7 +3,7 @@
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 20px;
-   background: linear-gradient(rgb(255, 225, 225), rgb(77, 0, 0));
+   background: linear-gradient(rgb(42, 177, 255), rgb(158, 0, 0));
    ;
    position: relative
 ;
@@ -70,12 +70,12 @@ min-height: 100vh;
       input[type="text"]
        {
         width: 200px;
-        background: #d9fff7;
+        background: hsl(168, 100%, 99%);
       }
 
       input[type="number"] {
 
-background:#d9fff7;
+background:#ffffff;
       }
 
   
@@ -133,7 +133,8 @@ display: block;
  button#desfazerButton{
 
 color: #ffffff;
-background: #ff0202;
-padding: 10px;
+background: #0155b4;
+padding: 15px;
+
  }
 
